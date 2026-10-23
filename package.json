@@ -1,0 +1,21 @@
+{
+  "name": "blog-rest-api",
+  "version": "1.0.0",
+  "description": "A REST API for creating, reading, updating, and deleting blog posts using Node.js and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "blog",
+    "rest-api",
+    "nodejs",
+    "express",
+    "crud"
+  ],
+  "author": "Student",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
